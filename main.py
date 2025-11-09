@@ -18,7 +18,6 @@ if __name__ == "__main__":
     toml_to_python = toml_parse_to_python(read_to_toml_for_python)
     toml_to_python_to_bin = parse_to_bin(toml_to_python)
     print("Перевод в бинарный тип: (Десериализация)", type(toml_to_python_to_bin))
-    print(toml_to_python_to_bin)
 
     bin_to_python = parse_to_python()
     python_to_json = convert_to_json(toml_to_python)
