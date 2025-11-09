@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <classes>
+        <Monday>
+            <element>
+                <name>Основы Дискретной математики</name>
+                <lecturer>Поляков Владимир Иванович</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 2337</classroom>
+                <timestart>09:50</timestart>
+                <timeend>11:20</timeend>
+                <type>Лекция</type>
+            </element>
+            <element>
+                <name>Основы Дискретной математики</name>
+                <lecturer>Поляков Владимир Иванович</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 2337</classroom>
+                <timestart>11:30</timestart>
+                <timeend>13:00</timeend>
+                <type>Практика</type>
+            </element>
+            <element>
+                <name>Информатика</name>
+                <lecturer>Авксентьева Елена Юрьевна</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 2305</classroom>
+                <timestart>13:30</timestart>
+                <timeend>15:00</timeend>
+                <type>Лабораторная</type>
+            </element>
+            <element>
+                <name>Информатика</name>
+                <lecturer>Авксентьева Елена Юрьевна</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 2305</classroom>
+                <timestart>15:30</timestart>
+                <timeend>17:00</timeend>
+                <type>Лабораторная</type>
+            </element>
+            <element>
+                <name>Основы профессиональной деятельности</name>
+                <lecturer>Остапенко Ольга Денисовна</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 1338</classroom>
+                <timestart>17:10</timestart>
+                <timeend>18:40</timeend>
+                <type>Лабораторная</type>
+            </element>
+        </Monday>
+        <Thursday>
+            <element>
+                <name>Россия в истории современных международных отношений</name>
+                <lecturer>Кутлубаева Дария Нуровна</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 2308</classroom>
+                <timestart>13:30</timestart>
+                <timeend>15:00</timeend>
+                <type>Практика</type>
+            </element>
+            <element>
+                <name>Россия в истории современных международных отношений</name>
+                <lecturer>Богомазов Николай Иванович</lecturer>
+                <address>Кронверский пр., д. 49, лит. А</address>
+                <classroom>Ауд. 1419</classroom>
+                <timestart>15:30</timestart>
+                <timeend>17:00</timeend>
+                <type>Лекция</type>
+            </element>
+        </Thursday>
+    </classes>
+</main>
